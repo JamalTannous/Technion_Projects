@@ -1,0 +1,1 @@
+This folder conatains a schematic describing the connections between the hardware components of the project.

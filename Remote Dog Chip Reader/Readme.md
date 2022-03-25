@@ -1,4 +1,4 @@
-Building a compact, relatively cheap, battery powered pet microchip reader, which scans the pet's microchip and sends its id to a database that connects to an Android application through which we can access the pet's data, take pictures and modify the data in the cloud very easily.
+#Building a compact, relatively cheap, battery powered pet microchip reader, which scans the pet's microchip and sends its id to a database that connects to an Android application through which we can access the pet's data, take pictures and modify the data in the cloud very easily.
 
 
 Lots of pets today have microchips inserted in their body.

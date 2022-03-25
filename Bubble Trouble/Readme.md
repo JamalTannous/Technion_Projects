@@ -1,4 +1,4 @@
-Designing a game using DE10-Standard Development Kit (Intel System-on-Chip (SoC) FPGA).
+#Designing a game using DE10-Standard Development Kit (Intel System-on-Chip (SoC) FPGA).
 The project had some constraints, mainly a compilation time that does not exceed 10 minutes.
 In order to withstand those constraints and simultaneously provide a "cool looking" game with descent graphics we came up with creative programming ideas that 
 reduced the compilation time without affecting the quality of the product.

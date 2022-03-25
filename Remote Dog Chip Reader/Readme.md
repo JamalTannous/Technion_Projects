@@ -1,6 +1,4 @@
-#Building a compact, relatively cheap, battery powered pet microchip reader, which scans the pet's microchip and sends its id to a database that connects to an Android application through which we can access the pet's data, take pictures and modify the data in the cloud very easily.
-
-
+# Building a compact, relatively cheap, battery powered pet microchip reader, which scans the pet's microchip and sends its id to a database that connects to an Android application through which we can access the pet's data, take pictures and modify the data in the cloud very easily.
 Lots of pets today have microchips inserted in their body.
 Each one of those microchips has an id which consists of 16 bytes.
 In order to scan the pet’s microchip, the user needs an RFID chip scanner.
